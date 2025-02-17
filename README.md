@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Rinne's github stats](https://github-stats.qianmin.cc/api?username=AsakusaRinne&show_icons=true&theme=radical&role=COLLABORATOR&exclude_repo=TensorFlow.NET&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+[![Rinne's github stats](https://github-stats.qianmin.cc/api?username=AsakusaRinne&show_icons=true&theme=radical&role=COLLABORATOR&exclude_repo=openvino&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 https://github-readme-stats.vercel.app/api/top-langs/?username=AsakusaRinne 
